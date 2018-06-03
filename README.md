@@ -4,6 +4,6 @@
 Train a Recurrent neural net to predict the sum of two binary numbers.
 
 ### Dependencies
-numpy \s\s
-copy \s\s
+numpy <br>
+copy <br>
 Use pip to install any missing dependencies
